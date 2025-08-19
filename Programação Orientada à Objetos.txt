@@ -1,0 +1,27 @@
+Programação Orientada à Objetos
+
+. Se assemelha à uma norma técnica, com objetivo de padronizar códigos
+
+. Separação de interface da camada de negócio
+
+entrada -> processo -> saída
+
+Conceitos
+
+CLASSE = Estrutura de armazenamento de dados (atributos) e de ações (métodos) 
+         que manipulam tais dados
+
+OBJETO = É a instância de uma classe
+
+ATRIBUTO = É uma característica de uma classe
+
+MÉTODO = É uma ação de uma classe
+
+ENCAPSULAMENTO = Técnica que protege os atributos de uma classe do acesso externo direto
+                 através de métodos de interface, chamados de setter's & getter's
+
+
+
+
+
+
